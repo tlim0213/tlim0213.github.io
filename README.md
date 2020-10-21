@@ -6,4 +6,4 @@ Tongseok Lim works at the intersection of Mathematical Analysis, Probability, an
 
 Please see [CV](https://tlim0213.github.io/folder/CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=n-Qz1vgAAAAJ&hl=en) for more information about Tongseok Lim.
 
-<a href="tlim0213.github.io/folder/cv.pdf" target="_blank">PDF.</a>
+<a href="tlim0213.github.io/folder/CV.pdf" target="_blank">PDF.</a>
