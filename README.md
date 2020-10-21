@@ -4,4 +4,4 @@ Tongseok Lim is an assistant professor of Quantitative Methods, Krannert School 
 
 Tongseok Lim works at the intersection of Mathematical Analysis, Probability, and Optimization (Optimal Transport in particular).
 
-See [CV](https://github.com/tlim0213/tlim0213.github.io/edit/main/CV_201006.pdf) and [Google Scholar](https://scholar.google.com/citations?user=n-Qz1vgAAAAJ&hl=en) for more information about Tongseok Lim.
+Please see [CV](https://github.com/tlim0213/tlim0213.github.io/edit/main/CV_201006.pdf) and [Google Scholar](https://scholar.google.com/citations?user=n-Qz1vgAAAAJ&hl=en) for more information about Tongseok Lim.
