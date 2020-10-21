@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Tongseok Lim's homepage!
 
 You can use the [editor on GitHub](https://github.com/tlim0213/tlim0213.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
