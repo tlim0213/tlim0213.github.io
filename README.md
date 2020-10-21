@@ -2,6 +2,7 @@
 
 Tongseok Lim is an assistant professor of Quantitative Methods, Krannert School of Management at Purdue University.
 
+Tongseok Lim works at the intersection of Mathematical Analysis, Probability and Optimization (Optimal Transport in particular).
 
 You can use the [editor on GitHub](https://github.com/tlim0213/tlim0213.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
