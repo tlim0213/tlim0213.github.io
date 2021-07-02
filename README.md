@@ -2,7 +2,7 @@
 
 Tongseok Lim is an assistant professor in [Quantitative Methods](https://krannert.purdue.edu/directory/view.php?search=FacArea&FacAreaList=61), Krannert School of Management at Purdue University.
 
-Tongseok Lim is interested in various fields, and his study includes (i) (Martingale–) Optimal Transport in multi-dimensions and its applications to Economics, Finance and Statistics, (ii) Analysis of Variational problems arising in Physics, Geometry and Data Science, and most recently (iii) Cooperative Game Theory in light of combinatorial Hodge theory.
+Tongseok Lim is interested in various fields, and his study includes (i) (Martingale–) Optimal Transport in multi-dimensions and its applications to Economics, Finance and Statistics, (ii) Analysis of Variational problems arising in Physics, Geometry and Data Science, and most recently (iii) Cooperative Game Theory in light of combinatorial Hodge Theory.
 
 Please see [CV](https://tlim0213.github.io/folder/TLIM_CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=n-Qz1vgAAAAJ&hl=en) for more information about Tongseok Lim.
 
