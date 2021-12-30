@@ -6,7 +6,7 @@ Tongseok Lim is interested in various fields, and his study includes (i) (Martin
 
 Please see [CV](https://tlim0213.github.io/folder/TLIM_CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=n-Qz1vgAAAAJ&hl=en) for more information about Tongseok Lim.
 
-⁍ News (Dec 2021): Lim's paper (with [Robert J. McCann](http://www.math.toronto.edu/mccann/)), [Maximizing expected powers of the angle between pairs of points in projective space](https://tlim0213.github.io/folder/papers/Toth_second.pdf), will appear in [Probability Theory and Related Fields](https://www.springer.com/journal/440).
+⁍ News (Dec 2021): Lim's paper, [Maximizing expected powers of the angle between pairs of points in projective space](https://tlim0213.github.io/folder/papers/Toth_second.pdf), will appear in [Probability Theory and Related Fields](https://www.springer.com/journal/440). This is joint work with [Robert J. McCann](http://www.math.toronto.edu/mccann/).
 
 ⁍ News (Sep 2021): Lim's new papers, [Classifying minimum energy states for interacting particles (I) -- Spherical shells](https://tlim0213.github.io/folder/papers/SphericalShell.pdf), and [Classifying minimum energy states for interacting particles (II) -- Regular simplices](https://tlim0213.github.io/folder/papers/Simplex.pdf), have now appeared. These are joint work with [Robert J. McCann](http://www.math.toronto.edu/mccann/) and his student Cameron Davis. The papers study the interaction energy minimization -- or quadratic programming -- problem in which the energy is governed by a power-law, borderline mildly-repulsive potential. We provide a complete characterization of the minimizers for this critical regime.
 
