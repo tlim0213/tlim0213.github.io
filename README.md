@@ -7,7 +7,7 @@ Tongseok Lim is interested in various fields, and his study includes (i) (Martin
 Please see [CV](https://tlim0213.github.io/folder/TLIM_CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=n-Qz1vgAAAAJ&hl=en) for more information about Tongseok Lim.
 
 
-⁍ News (Jan 2022): Lim's paper, [Hodge theoretic reward allocation for generalized cooperative games on graphs](https://tlim0213.github.io/folder/papers/ShapleyGeneralGraph.pdf), is throughly revised with a new section on the dynamic interpretation of Nash's and Kohlberg and Neyman's value allocation theory for cooperative strategic games.
+⁍ News (Jan 2022): Lim's paper, [Hodge theoretic reward allocation for generalized cooperative games on graphs](https://tlim0213.github.io/folder/papers/ShapleyGeneralGraph.pdf), is thoroughly revised with a new section on the dynamic interpretation of Nash's and Kohlberg and Neyman's value allocation theory for cooperative strategic games.
 
 ⁍ News (Dec 2021): Lim's paper, [Maximizing expected powers of the angle between pairs of points in projective space](https://tlim0213.github.io/folder/papers/Toth_second.pdf), will appear in [Probability Theory and Related Fields](https://www.springer.com/journal/440). This is joint work with [Robert J. McCann](http://www.math.toronto.edu/mccann/).
 
