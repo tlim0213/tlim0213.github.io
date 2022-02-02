@@ -6,6 +6,7 @@ Tongseok Lim is interested in various fields, and his study includes (i) (Martin
 
 Please see [CV](https://tlim0213.github.io/folder/TLIM_CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=n-Qz1vgAAAAJ&hl=en) for more information about Tongseok Lim.
 
+⁍ News (Feb 2022): Lim's paper, [On the cardinality of sets in R^d obeying a slightly obtuse angle bound](https://arxiv.org/pdf/2007.13871.pdf), will be published in [SIAM Journal on Discrete Mathematics](https://www.siam.org/publications/journals/siam-journal-on-discrete-mathematics-sidma). This is joint work with [Robert J. McCann](http://www.math.toronto.edu/mccann/).
 
 ⁍ News (Jan 2022): Lim's paper, [Hodge theoretic reward allocation for generalized cooperative games on graphs](https://tlim0213.github.io/folder/papers/ShapleyGeneralGraph.pdf), is thoroughly revised with a new section on the dynamic interpretation of Nash's and Kohlberg and Neyman's value allocation theory for cooperative strategic games.
 
