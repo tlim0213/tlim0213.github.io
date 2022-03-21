@@ -6,7 +6,7 @@ Tongseok Lim is interested in various fields, and his study includes (i) (Martin
 
 Please see [CV](https://tlim0213.github.io/folder/TLIM_CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=n-Qz1vgAAAAJ&hl=en) for more information about Tongseok Lim.
 
-⁍ News (Mar 2022): Lim's presentation was given at the BIRS workshop[Video](http://www.birs.ca/events/2022/5-day-workshops/22w5166/videos/watch/202203211443-Lim.html), explaining the paper [Stochastic integral representation of solutions to Hodge theoretic Poisson's equations on graphs, and cooperative value allocation of Shapley and Nash](https://tlim0213.github.io/folder/papers/PoissonHodgegraph.pdf). I hope you enjoy it!
+⁍ News (Mar 2022): Lim's presentation was given at the BIRS workshop [Video](http://www.birs.ca/events/2022/5-day-workshops/22w5166/videos/watch/202203211443-Lim.html), explaining the paper [Stochastic integral representation of solutions to Hodge theoretic Poisson's equations on graphs, and cooperative value allocation of Shapley and Nash](https://tlim0213.github.io/folder/papers/PoissonHodgegraph.pdf). I hope you enjoy it!
 
 new paper, [Stochastic integral representation of solutions to Hodge theoretic Poisson's equations on graphs, and cooperative value allocation of Shapley and Nash](https://tlim0213.github.io/folder/papers/PoissonHodgegraph.pdf), has now appeared, combining Lim's preceding articles [A Hodge theoretic extension of Shapley axioms](https://tlim0213.github.io/folder/papers/ShapleyAxioms.pdf), and  [Hodge theoretic reward allocation for generalized cooperative games on graphs](https://tlim0213.github.io/folder/papers/ShapleyGeneralGraph.pdf).
 
