@@ -6,7 +6,7 @@ Tongseok Lim is interested in various fields, and his study includes (i) (Martin
 
 Please see [CV](https://tlim0213.github.io/folder/TLIM_CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=n-Qz1vgAAAAJ&hl=en) for more information about Tongseok Lim.
 
-⁍ News (May 2022): Lim's paper, [Classifying minimum energy states for interacting particles: Spherical Shells](https://arxiv.org/pdf/2107.11718.pdf), will be published in [SIAM Journal on Applied Mathematics]((https://www.siam.org/publications/journals/siam-journal-on-applied-mathematics-siap). This is joint work with [Robert J. McCann](http://www.math.toronto.edu/mccann/) and his student Cameron Davis.
+⁍ News (May 2022): Lim's paper, [Classifying minimum energy states for interacting particles: Spherical Shells](https://arxiv.org/pdf/2107.11718.pdf), will be published in [SIAM Journal on Applied Mathematics](https://www.siam.org/publications/journals/siam-journal-on-applied-mathematics-siap). This is joint work with [Robert J. McCann](http://www.math.toronto.edu/mccann/) and his student Cameron Davis.
 
 ⁍ News (Mar 2022): Lim's presentation was given at the BIRS workshop [Video](http://www.birs.ca/events/2022/5-day-workshops/22w5166/videos/watch/202203211443-Lim.html), explaining the paper [Stochastic integral representation of solutions to Hodge theoretic Poisson's equations on graphs, and cooperative value allocation of Shapley and Nash](https://tlim0213.github.io/folder/papers/PoissonHodgegraph.pdf). I hope you enjoy it!
 
