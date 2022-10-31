@@ -6,6 +6,8 @@ Tongseok Lim is interested in various fields, and his study includes (i) (Martin
 
 Please see [CV](https://tlim0213.github.io/folder/TLIM_CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=n-Qz1vgAAAAJ&hl=en) for more information about Tongseok Lim.
 
+⁍ News (Nov 2022): Lim's paper, [Classifying minimum energy states for interacting particles: Regular simplices](https://tlim0213.github.io/folder/papers/Simplex.pdf), will be published in [Communications in Mathematical Physics](https://www.springer.com/journal/220). This is joint work with [Robert J. McCann](http://www.math.toronto.edu/mccann/) and his student Cameron Davis.
+
 ⁍ News (Jul 2022): Lim's new paper, [Completeness and maximal monotonicity of multi-conjugate convex functions on the line](https://tlim0213.github.io/folder/papers/MMconvexanalysis.pdf), has now appeared. The paper introduces the notion of generalized involution of several convex functions which we call completeness of convex conjugation, and studies its validity and connection with maximal monotonicity induced by multi-conjugate convex functions.
 
 ⁍ News (May 2022): Lim's paper, [Classifying minimum energy states for interacting particles: Spherical shells](https://arxiv.org/pdf/2107.11718.pdf), will be published in [SIAM Journal on Applied Mathematics](https://www.siam.org/publications/journals/siam-journal-on-applied-mathematics-siap). This is joint work with [Robert J. McCann](http://www.math.toronto.edu/mccann/) and his student Cameron Davis.
