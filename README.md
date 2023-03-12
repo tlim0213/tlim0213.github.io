@@ -6,7 +6,7 @@ Tongseok Lim is interested in various fields, and his study includes (i) (Martin
 
 Please see [CV](https://tlim0213.github.io/folder/TLIM_CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=n-Qz1vgAAAAJ&hl=en) for more information about Tongseok Lim.
 
-⁍ News (Mar 2022): Lim's paper, [Geometry of vectorial martingale optimal transportations and duality](https://tlim0213.github.io/folder/papers/VMOT.pdf), has been accepted for publication in [Mathematical Programming](https://www.springer.com/journal/10107) series A. The paper investigates duality and its strong attainment of the martingale optimal transport problem given vectorial marginal distributions, which is motivated by robust mathematical finance.
+⁍ News (Mar 2022): Lim's paper, [Geometry of vectorial martingale optimal transportations and duality](https://tlim0213.github.io/folder/papers/VMOT.pdf), will be published in in [Mathematical Programming](https://www.springer.com/journal/10107) series A. The paper investigates duality and its strong attainment of the martingale optimal transport problem given vectorial marginal distributions, which is motivated by robust mathematical finance.
 
 ⁍ News (Feb 2023): Lim's paper, announced in Mar 2022, has been completely rewritten with new results and a new title: [Hodge allocation for cooperative rewards: a generalization of Shapley's cooperative value allocation theory via Hodge theory on graphs](https://tlim0213.github.io/folder/papers/GeneralShapleyTheory.pdf).
 
