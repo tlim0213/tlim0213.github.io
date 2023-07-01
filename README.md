@@ -6,6 +6,7 @@ Tongseok Lim is interested in various fields, and his study includes (i) (Martin
 
 Please see [CV](https://tlim0213.github.io/folder/TLIM_CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=n-Qz1vgAAAAJ&hl=en) for more information about Tongseok Lim.
 
+⁍ News (Jul 2023): Lim's new paper, [Replication of financial derivatives under extreme market models given marginals](https://tlim0213.github.io/folder/papers/multiperiodVMOT.pdf), has now appeared. The paper shows that a portfolio sub- or super-hedging a general path-dependent derivative security in terms of trading European options and underlyings exists, and furthermore, the portfolio replicates the derivative payoff when the market model yields the extremal price of the derivative given marginal distributions of the underlyings. Mathematically, the paper establishes dual attainment for the multi-period vectorial martingale optimal transport problem.
 
 ⁍ News (May 2023): Lim's paper, [Maximal monotonicity and cyclic involutivity of multi-conjugate convex functions](https://tlim0213.github.io/folder/papers/MMconvexanalysis2.pdf), will be published in [SIAM Journal on Optimization](https://www.siam.org/publications/journals/siam-journal-on-optimization-siopt).
 
