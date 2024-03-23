@@ -6,7 +6,7 @@ Tongseok Lim is interested in various fields, and his study includes (i) (Martin
 
 Please see [CV](https://tlim0213.github.io/folder/TLIM_CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=n-Qz1vgAAAAJ&hl=en) for more information about Tongseok Lim.
 
-⁍ News (Feb 2023): Lim's paper, announced in Mar 2022, has been completely rewritten with new results and a new title: [Cooperative networks and f-Shapley value](https://tlim0213.github.io/folder/papers/fShapley.pdf).
+⁍ News (Mar 2024): Lim's paper, announced in Mar 2022, has been completely rewritten with new results and a new title: [Cooperative networks and f-Shapley value](https://tlim0213.github.io/folder/papers/fShapley.pdf).
 
 ⁍ News (Nov 2023): Lim's new paper, [Optimal exercise decision of American options under model uncertainty](https://tlim0213.github.io/folder/papers/Opt.Stop.MOT.pdf), has now appeared. When the model uncertainty consistent with the given marginal distribution information is described as the martingale optimal transport problem, the paper shows that any option exercise scheme associated with any market model that jointly maximizes the expected option payoff must be nonrandomized if the American option payoff satisfies a suitable convexity condition and the model-free price upper bound and its relaxed version coincide. The latter condition is desired to be removed under appropriate conditions on the cost and marginals.
 
@@ -17,11 +17,11 @@ Please see [CV](https://tlim0213.github.io/folder/TLIM_CV.pdf) and [Google Schol
 
 ⁍ News (Jul 2023): Lim's new paper, [Replication of financial derivatives under extreme market models given marginals](https://tlim0213.github.io/folder/papers/multiperiodVMOT.pdf), has now appeared. The paper shows that a portfolio sub- or super-hedging a general path-dependent derivative security in terms of trading European options and underlyings exists, and furthermore, the portfolio replicates the derivative payoff when the market model yields the extremal price of the derivative given marginal distributions of the underlyings. Mathematically, the paper establishes dual attainment for the multi-period vectorial martingale optimal transport problem.
 
-⁍ News (May 2023): Lim's paper, [Maximal monotonicity and cyclic involutivity of multi-conjugate convex functions](https://tlim0213.github.io/folder/papers/MMconvexanalysis2.pdf), will be published in [SIAM Journal on Optimization](https://www.siam.org/publications/journals/siam-journal-on-optimization-siopt).
+⁍ News (May 2023): Lim's paper, [Maximal monotonicity and cyclic involutivity of multiconjugate convex functions](https://tlim0213.github.io/folder/papers/MMconvexanalysis2.pdf), will be published in [SIAM Journal on Optimization](https://www.siam.org/publications/journals/siam-journal-on-optimization-siopt).
 
 ⁍ News (Mar 2023): Lim's paper, [Geometry of vectorial martingale optimal transportations and duality](https://tlim0213.github.io/folder/papers/VMOT.pdf), will be published in [Mathematical Programming](https://www.springer.com/journal/10107) series A. The paper investigates duality and its strong attainment of the martingale optimal transport problem given vectorial marginal distributions, which is motivated by robust mathematical finance.
 
-⁍ News (Dec 2022): Lim's paper, announced in July 2022, has been significantly expanded from the previous version, and bears a new title: [Maximal monotonicity and cyclic involutivity of multi-conjugate convex functions](https://tlim0213.github.io/folder/papers/MMconvexanalysis2.pdf).
+⁍ News (Dec 2022): Lim's paper, announced in July 2022, has been significantly expanded from the previous version, and bears a new title: [Maximal monotonicity and cyclic involutivity of multiconjugate convex functions](https://tlim0213.github.io/folder/papers/MMconvexanalysis2.pdf).
 
 ⁍ News (Nov 2022): Lim's paper, [Classifying minimum energy states for interacting particles: Regular simplices](https://tlim0213.github.io/folder/papers/Simplex.pdf), will be published in [Communications in Mathematical Physics](https://www.springer.com/journal/220). This is joint work with [Robert J. McCann](http://www.math.toronto.edu/mccann/) and his student Cameron Davis.
 
