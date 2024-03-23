@@ -6,6 +6,8 @@ Tongseok Lim is interested in various fields, and his study includes (i) (Martin
 
 Please see [CV](https://tlim0213.github.io/folder/TLIM_CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=n-Qz1vgAAAAJ&hl=en) for more information about Tongseok Lim.
 
+⁍ News (Feb 2023): Lim's paper, announced in Mar 2022, has been completely rewritten with new results and a new title: [Cooperative networks and f-Shapley value](https://tlim0213.github.io/folder/papers/fShapley.pdf).
+
 ⁍ News (Nov 2023): Lim's new paper, [Optimal exercise decision of American options under model uncertainty](https://tlim0213.github.io/folder/papers/Opt.Stop.MOT.pdf), has now appeared. When the model uncertainty consistent with the given marginal distribution information is described as the martingale optimal transport problem, the paper shows that any option exercise scheme associated with any market model that jointly maximizes the expected option payoff must be nonrandomized if the American option payoff satisfies a suitable convexity condition and the model-free price upper bound and its relaxed version coincide. The latter condition is desired to be removed under appropriate conditions on the cost and marginals.
 
 
@@ -18,8 +20,6 @@ Please see [CV](https://tlim0213.github.io/folder/TLIM_CV.pdf) and [Google Schol
 ⁍ News (May 2023): Lim's paper, [Maximal monotonicity and cyclic involutivity of multi-conjugate convex functions](https://tlim0213.github.io/folder/papers/MMconvexanalysis2.pdf), will be published in [SIAM Journal on Optimization](https://www.siam.org/publications/journals/siam-journal-on-optimization-siopt).
 
 ⁍ News (Mar 2023): Lim's paper, [Geometry of vectorial martingale optimal transportations and duality](https://tlim0213.github.io/folder/papers/VMOT.pdf), will be published in [Mathematical Programming](https://www.springer.com/journal/10107) series A. The paper investigates duality and its strong attainment of the martingale optimal transport problem given vectorial marginal distributions, which is motivated by robust mathematical finance.
-
-⁍ News (Feb 2023): Lim's paper, announced in Mar 2022, has been completely rewritten with new results and a new title: [Hodge allocation for cooperative rewards: a generalization of Shapley's cooperative value allocation theory via Hodge theory on graphs](https://tlim0213.github.io/folder/papers/GeneralShapleyTheory.pdf).
 
 ⁍ News (Dec 2022): Lim's paper, announced in July 2022, has been significantly expanded from the previous version, and bears a new title: [Maximal monotonicity and cyclic involutivity of multi-conjugate convex functions](https://tlim0213.github.io/folder/papers/MMconvexanalysis2.pdf).
 
