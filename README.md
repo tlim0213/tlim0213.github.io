@@ -6,7 +6,7 @@ Tongseok Lim is interested in various fields, and his study includes (i) (Martin
 
 Please see [CV](https://tlim0213.github.io/folder/TLIM_CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=n-Qz1vgAAAAJ&hl=en) for more information about Tongseok Lim.
 
-⁍ News (Mar 2024): Lim's paper, announced in Mar 2022, has been completely rewritten with new results and a new title: [Cooperative networks and f-Shapley value](https://tlim0213.github.io/folder/papers/fShapley.pdf).
+⁍ News (Jun 2024): Lim's paper, announced in Mar 2022, has been completely rewritten with new results and a new title: [Cooperative networks and Hodge-Shapley value](https://tlim0213.github.io/folder/papers/HodgeShapley.pdf).
 
 ⁍ News (Nov 2023): Lim's new paper, [Optimal exercise decision of American options under model uncertainty](https://tlim0213.github.io/folder/papers/Opt.Stop.MOT.pdf), has now appeared. When the model uncertainty consistent with the given marginal distribution information is described as the martingale optimal transport problem, the paper shows that any option exercise scheme associated with any market model that jointly maximizes the expected option payoff must be nonrandomized if the American option payoff satisfies a suitable convexity condition and the model-free price upper bound and its relaxed version coincide. The latter condition is desired to be removed under appropriate conditions on the cost and marginals.
 
