@@ -6,7 +6,7 @@ Tongseok Lim is interested in various fields, and his study includes (i) (Martin
 
 Please see [CV](https://tlim0213.github.io/folder/TLIM_CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=n-Qz1vgAAAAJ&hl=en) for more information about Tongseok Lim.
 
-⁍ News (Oct 2023): Lim's paper, [Node classification in networks via simplicial interactions](https://tlim0213.github.io/folder/papers/NodeClassification.pdf), will be published in [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems). This is a collaboration with [Eunho Koo](https://scholar.google.com/citations?hl=ko&user=13BRvZAAAAAJ&view_op=list_works&sortby=pubdate), an associate professor at [Chonnam National University](https://stat.jnu.ac.kr/stat_eng/8462/subview.do#none) in South Korea.
+⁍ News (Dec 2024): Lim's paper, *[Node Classification in Networks via Simplicial Interactions](https://tlim0213.github.io/folder/papers/NodeClassification.pdf)*, is set to be published in the *[IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)*. This work is a collaboration with [Eunho Koo](https://scholar.google.com/citations?hl=ko&user=13BRvZAAAAAJ&view_op=list_works&sortby=pubdate), an associate professor at [Chonnam National University](https://stat.jnu.ac.kr/stat_eng/8462/subview.do#none) in South Korea.
 
 ⁍ News (Jun 2024): Lim's paper, announced in Mar 2022, has been completely rewritten with new results and a new title: [Cooperative networks and Hodge-Shapley value](https://tlim0213.github.io/folder/papers/HodgeShapley.pdf).
 
