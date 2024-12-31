@@ -1,6 +1,6 @@
 ## Welcome to Tongseok Lim's homepage!
 
-Tongseok Lim is an assistant professor in [Quantitative Methods](https://krannert.purdue.edu/directory/view.php?search=FacArea&FacAreaList=61), Mitchell E. Daniels, Jr. School of Business at Purdue University.
+Tongseok Lim is an assistant professor in [Quantitative Methods](https://krannert.purdue.edu/directory/view.php?search=FacArea&FacAreaList=61), Mitch Daniels School of Business at Purdue University.
 
 Tongseok Lim is interested in various fields, and his study includes (i) (Martingale–) Optimal Transport in multi-dimensions and its applications to Economics, Finance and Statistics, (ii) Analysis of Variational problems arising in Physics, Geometry and Data Science, and (iii) Hodge Theory on graphs and its connection with Stochastic Calculus and Game Theory. 
 
