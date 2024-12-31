@@ -23,7 +23,7 @@ Please see [CV](https://tlim0213.github.io/folder/TLIM_CV.pdf) and [Google Schol
 
 ⁍ News (Mar 2023): Lim's paper, *[Geometry of vectorial martingale optimal transportations and duality](https://tlim0213.github.io/folder/papers/VMOT.pdf)*, will be published in *[Mathematical Programming](https://www.springer.com/journal/10107)* series A. The paper investigates duality and its strong attainment of the martingale optimal transport problem given vectorial marginal distributions, which is motivated by robust mathematical finance.
 
-⁍ News (Dec 2022): Lim's paper, announced in July 2022, has been significantly expanded from the previous version, and bears a new title: [Maximal monotonicity and cyclic involutivity of multiconjugate convex functions](https://tlim0213.github.io/folder/papers/MMconvexanalysis2.pdf).
+⁍ News (Dec 2022): Lim's paper, announced in July 2022, has been significantly expanded from the previous version, and bears a new title: *[Maximal monotonicity and cyclic involutivity of multiconjugate convex functions](https://tlim0213.github.io/folder/papers/MMconvexanalysis2.pdf)*.
 
 ⁍ News (Nov 2022): Lim's paper, *[Classifying minimum energy states for interacting particles: Regular simplices](https://tlim0213.github.io/folder/papers/Simplex.pdf)*, will be published in *[Communications in Mathematical Physics](https://www.springer.com/journal/220)*. This is joint work with [Robert J. McCann](http://www.math.toronto.edu/mccann/) and his student Cameron Davis.
 
