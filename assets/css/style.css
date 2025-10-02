@@ -20,13 +20,13 @@ body {
 .banner-images {
   display: flex;
   justify-content: center;
-  gap: 15px;        /* spacing between images */
+  gap: 10px;        /* spacing between images */
   flex-wrap: wrap;   /* wrap on smaller screens */
 }
 
 .banner-images img {
   flex: 1 1 250px;      /* grow/shrink automatically, min width 250px */
-  max-width: 32%;        /* up to ~1/3 of container */
+  max-width: 33%;        /* up to ~1/3 of container */
   height: auto;          /* maintain aspect ratio */
   object-fit: cover;     /* crop if necessary */
   border-radius: 8px;
