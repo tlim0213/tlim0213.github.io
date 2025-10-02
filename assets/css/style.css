@@ -26,12 +26,9 @@ body {
 
 .banner-images img {
   width: 33.3%;
-  height: 250px;
-  object-fit: cover;
-  object-position: center 0%; /* placeholder, will be overridden by JS */
-  border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-  transition: transform 0.3s ease;
+  height: auto;
+  object-fit: contain;      /* show full image */
+  object-position: center;
 }
 
 .banner-images img:hover {
