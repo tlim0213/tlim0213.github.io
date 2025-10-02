@@ -19,20 +19,23 @@ body {
 
 .banner-images {
   display: flex;
-  justify-content: space-between;  /* distribute images evenly */
-  gap: 10px;
-  flex-wrap: nowrap;               /* no wrapping */
+  justify-content: space-between;  /* evenly spaced horizontally */
+  gap: 10px;                       /* optional gap */
+  flex-wrap: nowrap;                /* keep 3 images in one row on large screens */
 }
 
 .banner-images img {
-  width: 33.3%;
-  height: auto;
-  object-fit: contain;      /* show full image */
-  object-position: center;
+  width: 33.3%;            /* 3 images per row */
+  height: auto;            /* maintain aspect ratio */
+  object-fit: contain;     /* show full image without cropping */
+  object-position: center; /* center the image */
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  transition: transform 0.3s ease;
 }
 
 .banner-images img:hover {
-  transform: scale(1.05);            /* subtle zoom on hover */
+  transform: scale(1.05);  /* subtle zoom on hover */
 }
 
 /* Banner text below images */
@@ -101,21 +104,21 @@ body {
 ========================= */
 @media (max-width: 900px) {
   .banner-images img {
-    width: 48%;           /* 2 per row */
-    height: 200px;
-    object-position: center 10%;
+    width: 48%;           /* 2 images per row */
+    height: auto;
+    object-fit: contain;
   }
 }
 
 @media (max-width: 600px) {
   .banner-images {
-    flex-wrap: wrap;       /* allow wrapping on very small screens */
+    flex-wrap: wrap;       /* allow wrapping on small screens */
   }
 
   .banner-images img {
-    width: 100%;           /* 1 per row */
-    height: 180px;
-    object-position: center 10%;
+    width: 100%;           /* 1 image per row */
+    height: auto;
+    object-fit: contain;
   }
 
   .banner-text {
