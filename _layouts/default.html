@@ -9,19 +9,19 @@
 </head>
 <body>
 
-<!-- Responsive Horizontal Photos Banner -->
+<!-- Responsive Horizontal Photos Banner with adjustable cropping -->
 <header class="banner">
   <div class="banner-images">
-    <img src="{{ "/assets/family1.jpg" | relative_url }}" alt="Family 1">
-    <img src="{{ "/assets/family2.jpg" | relative_url }}" alt="Family 2">
-    <img src="{{ "/assets/family3.jpg" | relative_url }}" alt="Family 3">
+    <img src="{{ "/assets/family1.jpg" | relative_url }}" alt="Family 1" data-position="10%">
+    <img src="{{ "/assets/family2.jpg" | relative_url }}" alt="Family 2" data-position="10%">
+    <img src="{{ "/assets/family3.jpg" | relative_url }}" alt="Family 3" data-position="10%">
   </div>
 
   <div class="banner-text">
     <p>Behold, how good and pleasant it is when brothers dwell in unity! (Psalm 133:1)</p>
   </div>
 </header>
-
+  
   <!-- Page content -->
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
