@@ -14,7 +14,7 @@ body {
 ========================= */
 .banner {
   text-align: center;
-  margin-bottom: 30px; /* spacing below banner */
+  margin-bottom: 20px; /* spacing below banner */
 }
 
 .banner-images {
@@ -55,8 +55,8 @@ body {
   border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
   margin: 50px auto;
-  max-width: 900px;
-  padding: 30px;           /* top/bottom and left/right padding */
+  max-width: 1200px;
+  padding: 20px;           /* top/bottom and left/right padding */
   box-sizing: border-box;
 }
 
