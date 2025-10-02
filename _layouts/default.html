@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  {{ site.head }}
+</head>
+<body>
+
+  <!-- Custom Banner -->
+  <header class="banner">
+    <div class="banner-images">
+      <img src="{{ "/assets/family1.jpg" | relative_url }}" alt="Family 1">
+      <img src="{{ "/assets/family2.jpg" | relative_url }}" alt="Family 2">
+      <img src="{{ "/assets/family3.jpg" | relative_url }}" alt="Family 3">
+    </div>
+    <div class="banner-text">
+      <h1>{{ site.title }}</h1>
+      <p>{{ site.description }}</p>
+    </div>
+  </header>
+
+  <!-- Page content -->
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="wrapper">
+      <p>© {{ site.time | date: "%Y" }} {{ site.title }}</p>
+    </div>
+  </footer>
+
+</body>
+</html>
