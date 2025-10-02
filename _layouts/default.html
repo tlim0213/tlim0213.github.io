@@ -37,7 +37,7 @@
   </footer>
 
 <script>
-// Set object-position from data attribute
+// Apply vertical cropping from data-position
 document.querySelectorAll('.banner-images img').forEach(img => {
   const pos = img.getAttribute('data-position') || '0%';
   img.style.objectPosition = `center ${pos}`;
