@@ -14,37 +14,67 @@ body {
 ========================= */
 .banner {
   text-align: center;
-  margin-bottom: 20px; /* spacing below banner */
+  margin-bottom: 30px;
 }
 
 .banner-images {
   display: flex;
-  justify-content: space-between;  /* evenly spaced horizontally */
-  gap: 10px;                       /* optional gap */
-  flex-wrap: nowrap;                /* keep 3 images in one row on large screens */
+  justify-content: space-between;
+  flex-wrap: nowrap; /* horizontal row */
+  gap: 10px;
 }
 
 .banner-images img {
-  width: 33.3%;            /* 3 images per row */
-  height: auto;            /* maintain aspect ratio */
-  object-fit: contain;     /* show full image without cropping */
-  object-position: center; /* center the image */
+  height: auto;           /* maintain aspect ratio */
+  object-fit: cover;      /* crop to fill container */
   border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.2);
   transition: transform 0.3s ease;
 }
 
 .banner-images img:hover {
-  transform: scale(1.05);  /* subtle zoom on hover */
+  transform: scale(1.05);
 }
 
-/* Banner text below images */
+/* Photo size classes */
+.photo-small {
+  width: 28%;
+}
+
+.photo-medium {
+  width: 33.3%;
+}
+
+.photo-large {
+  width: 40%;
+}
+
+/* Banner text */
 .banner-text {
   margin-top: 10px;
   color: #333;
   font-size: 1.2em;
   font-weight: 500;
   text-align: center;
+}
+
+/* =========================
+   RESPONSIVE DESIGN
+========================= */
+@media (max-width: 900px) {
+  .banner-images img {
+    width: 48%;   /* 2 per row by default */
+  }
+}
+
+@media (max-width: 600px) {
+  .banner-images {
+    flex-wrap: wrap; /* 1 per row */
+  }
+
+  .banner-images img {
+    width: 100%;
+  }
 }
 
 /* =========================
