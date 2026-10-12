@@ -1,181 +1,65 @@
 /* =========================
    BODY & GENERAL SETTINGS
 ========================= */
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Helvetica, Arial, sans-serif;
   background-color: #ffffff;
   color: #24292e;
   line-height: 1.6;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 /* =========================
-   BANNER STYLING
+   WRAPPER
+   Support both layout names
 ========================= */
+
+.wrapper,
+.homepage-wrapper {
+  width: 100%;
+  max-width: 1250px;
+  margin: 0 auto;
+  padding: 0 25px;
+  box-sizing: border-box;
+}
+
+/* =========================
+   BANNER
+========================= */
+
 .banner {
   text-align: center;
   margin-bottom: 30px;
 }
 
-.banner-images {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: nowrap; /* horizontal row */
-  gap: 10px;
-}
-
-.banner-images img {
-  height: auto;           /* maintain aspect ratio */
-  object-fit: cover;      /* crop to fill container */
-  border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-  transition: transform 0.3s ease;
-}
-
-.banner-images img:hover {
-  transform: scale(1.05);
-}
-
-/* Photo size classes */
-.photo-small {
-  width: 28%;
-}
-
-.photo-medium {
-  width: 33.3%;
-}
-
-.photo-large {
-  width: 40%;
-}
-
-/* Banner text */
 .banner-text {
-  margin-top: 10px;
-  color: #333;
-  font-size: 1.2em;
+  margin-top: 12px;
+  padding: 0 10px;
+  color: #333333;
+  font-size: 1.1em;
   font-weight: 500;
   text-align: center;
 }
 
 /* =========================
-   RESPONSIVE DESIGN
+   THREE-PHOTO GALLERY
+   Left: two landscape photos
+   Right: one large portrait
 ========================= */
-@media (max-width: 900px) {
-  .banner-images img {
-    width: 48%;   /* 2 per row by default */
-  }
-}
-
-@media (max-width: 600px) {
-  .banner-images {
-    flex-wrap: wrap; /* 1 per row */
-  }
-
-  .banner-images img {
-    width: 100%;
-  }
-}
-
-/* =========================
-   PAGE CONTENT
-========================= */
-.page-content {
-  background-color: #f6f8fa;  /* light gray box */
-  border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  margin: 50px auto;
-  max-width: 1200px;
-  padding: 20px;           /* top/bottom and left/right padding */
-  box-sizing: border-box;
-}
-
-/* Ensure all text inside page-content has proper left/right margins */
-.page-content p,
-.page-content h1,
-.page-content h2,
-.page-content h3,
-.page-content h4,
-.page-content h5,
-.page-content h6,
-.page-content ul,
-.page-content ol,
-.page-content pre,
-.page-content blockquote {
-  margin-left: 15px;
-  margin-right: 15px;
-}
-
-/* Extra vertical spacing */
-.page-content p {
-  margin-top: 1em;
-  margin-bottom: 1em;
-}
-
-/* =========================
-   FOOTER
-========================= */
-.site-footer {
-  text-align: center;
-  padding: 20px;
-  font-size: 0.9em;
-  color: #666;
-}
-
-/* =========================
-   WRAPPER
-========================= */
-.wrapper {
-  padding: 0 25px;
-}
-
-/* =========================
-   RESPONSIVE DESIGN
-========================= */
-@media (max-width: 900px) {
-  .banner-images img {
-    width: 48%;           /* 2 images per row */
-    height: auto;
-    object-fit: contain;
-  }
-}
-
-@media (max-width: 600px) {
-  .banner-images {
-    flex-wrap: wrap;       /* allow wrapping on small screens */
-  }
-
-  .banner-images img {
-    width: 100%;           /* 1 image per row */
-    height: auto;
-    object-fit: contain;
-  }
-
-  .banner-text {
-    font-size: 1em;
-    padding: 10px 15px;
-  }
-
-  .page-content {
-    margin: 20px auto;
-    padding: 20px;
-  }
-
-  .wrapper {
-    padding: 0 15px;
-  }
-}
-
-/* ==========================================
-   Homepage: two landscapes + large portrait
-   ========================================== */
 
 .home-photo-gallery {
   --photo-gap: 12px;
   --photo-radius: 10px;
 
   display: grid;
-  grid-template-columns: 0.78fr 1fr;
+  grid-template-columns: minmax(0, 0.78fr) minmax(0, 1fr);
   align-items: stretch;
   gap: var(--photo-gap);
 
@@ -185,9 +69,12 @@ body {
   box-sizing: border-box;
 }
 
+/* Stack the landscape photos vertically. */
 .home-photo-gallery__left {
   display: grid;
   grid-template-columns: minmax(0, 1fr);
+  grid-template-rows: auto auto;
+  align-content: start;
   gap: var(--photo-gap);
   min-width: 0;
 }
@@ -198,16 +85,16 @@ body {
   min-width: 0;
   overflow: hidden;
   border-radius: var(--photo-radius);
-  background: #f3f3f3;
+  background-color: #f3f3f3;
   box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
 }
 
-/* Keep both landscape photos fully visible. */
+/* Preserve the full 4:3 landscape photos. */
 .home-photo-gallery__landscape {
   aspect-ratio: 4 / 3;
 }
 
-/* Reset image styling within this gallery only. */
+/* Reset image styles within the gallery. */
 .home-photo-gallery img {
   display: block;
   position: absolute;
@@ -222,24 +109,85 @@ body {
   border: 0;
   border-radius: 0;
   box-shadow: none;
+  transform: none;
 }
 
 .home-photo-gallery__landscape img {
   object-fit: contain;
+  object-position: center;
 }
 
 /*
- * The portrait spans the full height of the left column.
- * Bottom alignment retains the lower part of the photo,
- * cropping only the excess background at the top.
+ * The portrait matches the total height of the left column.
+ * Bottom alignment crops excess background from the top.
  */
 .home-photo-gallery__portrait img {
   object-fit: cover;
   object-position: center bottom;
 }
 
-/* Mobile: show the preferred portrait first. */
+/* =========================
+   PAGE CONTENT
+   Support both layout names
+========================= */
+
+.page-content,
+.homepage-content {
+  background-color: #f6f8fa;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+
+  width: 100%;
+  max-width: 1200px;
+  min-width: 0;
+  margin: 50px auto;
+  padding: 20px;
+  box-sizing: border-box;
+
+  overflow-wrap: break-word;
+}
+
+.page-content > *,
+.homepage-content > * {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.page-content p,
+.homepage-content p {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.page-content pre,
+.homepage-content pre {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+/* =========================
+   FOOTER
+========================= */
+
+.site-footer,
+.homepage-footer {
+  margin: 0 auto;
+  padding: 20px;
+  font-size: 0.9em;
+  color: #666666;
+  text-align: center;
+}
+
+/* =========================
+   MOBILE LAYOUT
+========================= */
+
 @media (max-width: 600px) {
+  .wrapper,
+  .homepage-wrapper {
+    padding: 0 15px;
+  }
+
   .home-photo-gallery {
     --photo-gap: 10px;
 
@@ -248,6 +196,7 @@ body {
     margin: 20px auto 26px;
   }
 
+  /* Show the preferred portrait first. */
   .home-photo-gallery__portrait {
     grid-row: 1;
     aspect-ratio: 75 / 88;
@@ -256,5 +205,30 @@ body {
   .home-photo-gallery__left {
     grid-row: 2;
   }
-}
 
+  .banner {
+    margin-bottom: 20px;
+  }
+
+  .banner-text {
+    font-size: 1em;
+    padding: 0 10px;
+  }
+
+  .page-content,
+  .homepage-content {
+    margin: 20px auto;
+    padding: 16px;
+  }
+
+  .page-content > *,
+  .homepage-content > * {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .site-footer,
+  .homepage-footer {
+    padding: 16px 0;
+  }
+}
