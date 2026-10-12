@@ -11,15 +11,26 @@
 
 <!-- Responsive Horizontal Photos Banner with adjustable cropping -->
 <header class="banner">
-  <div class="banner-images">
-    <img src="{{ "/assets/family1.jpg" | relative_url }}" alt="Family 1" class="photo-small" data-position="0%">
-    <img src="{{ "/assets/family2.jpg" | relative_url }}" alt="Family 2" class="photo-small" data-position="0%">
-    <img src="{{ "/assets/family3.jpg" | relative_url }}" alt="Family 3" class="photo-large" data-position="0%">
+<!-- Three-photo layout -->
+<div class="home-photo-gallery">
+
+  <!-- Two landscape photos on the left -->
+  <div class="home-photo-gallery__left">
+    <div class="home-photo-gallery__landscape">
+      {{ '/assets/home-landscape-1.jpg' | relative_url }}
+    </div>
+
+    <div class="home-photo-gallery__landscape">
+      {{ '/assets/home-landscape-2.jpg' | relative_url }}
+    </div>
   </div>
 
-  <div class="banner-text">
-    <p>Behold, how good and pleasant it is when brothers dwell in unity! (Photos taken on Sep 24, 2025)</p>
+  <!-- Large portrait photo on the right -->
+  <div class="home-photo-gallery__portrait">
+    {{ '/assets/home-portrait.jpg' | relative_url }}
   </div>
+
+</div>
 </header>
   
   <!-- Page content -->
