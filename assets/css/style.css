@@ -165,3 +165,96 @@ body {
     padding: 0 15px;
   }
 }
+
+/* ==========================================
+   Homepage: two landscapes + large portrait
+   ========================================== */
+
+.home-photo-gallery {
+  --photo-gap: 12px;
+  --photo-radius: 10px;
+
+  display: grid;
+  grid-template-columns: 0.78fr 1fr;
+  align-items: stretch;
+  gap: var(--photo-gap);
+
+  width: 100%;
+  max-width: 760px;
+  margin: 24px auto 30px;
+  box-sizing: border-box;
+}
+
+.home-photo-gallery__left {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--photo-gap);
+  min-width: 0;
+}
+
+.home-photo-gallery__landscape,
+.home-photo-gallery__portrait {
+  position: relative;
+  min-width: 0;
+  overflow: hidden;
+  border-radius: var(--photo-radius);
+  background: #f3f3f3;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* Keep both landscape photos fully visible. */
+.home-photo-gallery__landscape {
+  aspect-ratio: 4 / 3;
+}
+
+/* Reset image styling within this gallery only. */
+.home-photo-gallery img {
+  display: block;
+  position: absolute;
+  inset: 0;
+
+  width: 100%;
+  height: 100%;
+  max-width: none;
+
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.home-photo-gallery__landscape img {
+  object-fit: contain;
+}
+
+/*
+ * The portrait spans the full height of the left column.
+ * Bottom alignment retains the lower part of the photo,
+ * cropping only the excess background at the top.
+ */
+.home-photo-gallery__portrait img {
+  object-fit: cover;
+  object-position: center bottom;
+}
+
+/* Mobile: show the preferred portrait first. */
+@media (max-width: 600px) {
+  .home-photo-gallery {
+    --photo-gap: 10px;
+
+    grid-template-columns: minmax(0, 1fr);
+    max-width: 380px;
+    margin: 20px auto 26px;
+  }
+
+  .home-photo-gallery__portrait {
+    grid-row: 1;
+    aspect-ratio: 75 / 88;
+  }
+
+  .home-photo-gallery__left {
+    grid-row: 2;
+  }
+}
+
